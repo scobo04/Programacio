@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activity Guide.iml" filepath="$PROJECT_DIR$/Activity Guide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 4-2/Lesson 4-2.iml" filepath="$PROJECT_DIR$/Lesson 4-2/Lesson 4-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 5/Lesson 5.iml" filepath="$PROJECT_DIR$/Lesson 5/Lesson 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 6/Lesson 6.iml" filepath="$PROJECT_DIR$/Lesson 6/Lesson 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 7-1/Lesson 7-1.iml" filepath="$PROJECT_DIR$/Lesson 7-1/Lesson 7-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 7-2/Lesson 7-2.iml" filepath="$PROJECT_DIR$/Lesson 7-2/Lesson 7-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 8-1/Lesson 8-1.iml" filepath="$PROJECT_DIR$/Lesson 8-1/Lesson 8-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 8-2/Lesson 8-2.iml" filepath="$PROJECT_DIR$/Lesson 8-2/Lesson 8-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 8-3/Lesson 8-3.iml" filepath="$PROJECT_DIR$/Lesson 8-3/Lesson 8-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9-1/Lesson 9-1.iml" filepath="$PROJECT_DIR$/Lesson 9-1/Lesson 9-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9-2/Lesson 9-2.iml" filepath="$PROJECT_DIR$/Lesson 9-2/Lesson 9-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9-3/Lesson 9-3.iml" filepath="$PROJECT_DIR$/Lesson 9-3/Lesson 9-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9-4/Lesson 9-4.iml" filepath="$PROJECT_DIR$/Lesson 9-4/Lesson 9-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9-5/Lesson 9-5.iml" filepath="$PROJECT_DIR$/Lesson 9-5/Lesson 9-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 9-6/Lesson 9-6.iml" filepath="$PROJECT_DIR$/Lesson 9-6/Lesson 9-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proves/proves.iml" filepath="$PROJECT_DIR$/proves/proves.iml" />
+    </modules>
+  </component>
+</project>
